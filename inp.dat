@@ -1,0 +1,4 @@
+dppc.pdb		nazwa pliku z geometrią
+100. 100.		Xdim Ydim
+10 10 0			Na Nb r
+75				Z (wysokość na siatce)
